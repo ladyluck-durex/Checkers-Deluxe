@@ -227,4 +227,4 @@ Checkers Deluxe is a full free version, providing all features and updates. Ther
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-22 12:08:46 UTC
+**Last updated:** 2026-09-22 17:22:40 UTC
